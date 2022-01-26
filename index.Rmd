@@ -134,9 +134,6 @@ dygraph(q_xts) %>%
 
 ## Poudre Paragraph
 
-**The Poudre River** is the life force of the northern Front Range, supporting a diversity of ecosystems, sustaining local livelihoods, providing cultural value and more (https://poudretrail.org/trail-tour-2/history-of-the-area/). The Poudre River begins in Rocky Mountain National Park and flows throughout the northern Front Range for 125 miles, passing through the plains and Colorado cities, in which it then feeds into the South Platte River. Along this route, the river is fed by rain, snow melt, groundwater, lakes and various other sources within the Cache la Poudre River watershed (https://www.poudrewatershed.org/cache-la-poudre-watershed). 
+**The Poudre River**, meaning *Hide the Powder* in French, is the life force of the northern Front Range, supporting a diversity of ecosystems, sustaining local livelihoods, providing cultural value and more (https://poudretrail.org/trail-tour-2/history-of-the-area/). The Poudre River begins in Rocky Mountain National Park and flows throughout the northern Front Range for 125 miles, passing through the plains and Colorado cities, in which it then feeds into the South Platte River. Along this route, the river is fed by rain, snow melt, groundwater, lakes and various other sources within the Cache la Poudre River watershed (https://www.poudrewatershed.org/cache-la-poudre-watershed). 
 
 **Changes** in climatic, anthropogenic and other external variables have influenced the dynamics and characteristics of the Poudre River, resulting in issues such as intense flooding and decreased water quality (https://www.fcgov.com/poudrereportcard/). These issues highlight the need for high quality research and effective management techniques to ensure the contributions and condition of the Poudre River are optimal.
-
-revealjs link: 
-
